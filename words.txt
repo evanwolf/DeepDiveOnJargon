@@ -11,6 +11,7 @@ capture
 catalyze
 change agent
 circle back
+civic hacking
 civic tech
 cone
 core
